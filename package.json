@@ -16,7 +16,7 @@
     "url-pattern": "^1.0.3"
   },
   "devDependencies": {
-    "coveralls": "^2.13.1",
+    "coveralls": "^2.13.2",
     "eslint": "^4.15.0",
     "eslint-config-es": "^0.8.12",
     "eslint-config-prettier": "^2.9.0",
